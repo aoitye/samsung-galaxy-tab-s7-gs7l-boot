@@ -1,0 +1,8 @@
+            - name: Matrix outputs - read (filtered)
+  # You may pin to the exact commit or the version.
+  # uses: GoCodeAlone/github-action-matrix-outputs-read@800f06c67cdbca276da4bbfac6103fe8b10d393d
+  uses: GoCodeAlone/github-action-matrix-outputs-read@v1
+  with:
+    # Matrix step name
+    matrix-step-name: 
+          
